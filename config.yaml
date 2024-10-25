@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    jsmith:
+      email: udem@udem.ca
+      name: Universite de Montreal
+      password: $2b$12$HXyHBFEk/Jd60ViDK3I39.d6ecSwFRFWvRw1bw7QO50n8ZMsT0Mu. # To be replaced with hashed password
+    rbriggs:
+      email: sherbrooke@sherbrooke.ca
+      name: Universite de Sherbrooke
+      password: $2b$12$3NGOP4X6eb2AUQxV5T8Sa.zMr.HDB55TNybUXlCqcxWWtvw8rVnMe # To be replaced with hashed password
+cookie:
+  expiry_days: 0
+  key: random_signature_key # Must be string
+  name: random_cookie_name
